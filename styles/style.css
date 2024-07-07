@@ -70,7 +70,9 @@ nav {
     font-size: 45px;
 
 }
-
+nav ul li{
+    
+}
 nav ul li {
     list-style: none;
     margin-right: 50px;
