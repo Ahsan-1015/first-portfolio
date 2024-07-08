@@ -150,6 +150,14 @@ main {
 }
 
 /* about styles */
+#about-id:hover{
+    background-color: rgba(88, 197, 173, 0.945);
+    border: rgb(10, 9, 3) solid 2px;
+   
+    
+    
+}
+
 
 #about-id {
 
