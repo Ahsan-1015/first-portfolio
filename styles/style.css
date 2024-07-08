@@ -57,6 +57,13 @@
 }
 
 /* nav-ber style  */
+nav>ul>li>a:hover{
+    background-color: antiquewhite;
+    padding: 10px 0px;
+    border-radius: 2px;
+    box-shadow: white;
+
+}
 
 nav {
     display: flex;
@@ -186,6 +193,22 @@ main {
 
 /* what i do section skill */
 
+.skils:hover{
+    background-color: rgba(35, 38, 41, 0.849);
+    border-radius: 10% 10% 0 0;
+    border: rgba(64, 250, 8, 0.952) solid 2px;
+    
+
+}
+.skils>.skill-title:hover{
+    color: aliceblue;
+
+}
+
+.skils>.skill-description:hover{
+    color: aliceblue;
+}
+
 .skils {
     padding: 30px;
     border-radius: 5px;
@@ -197,6 +220,7 @@ main {
 
 
 }
+
 
 .skils-container {
     display: flex;
